@@ -1,0 +1,7 @@
+sample_id,person_file,garment_file,garment_category,expected_mode,notes
+sample-001,person-front.png,garment-overshirt.png,shirt,demo,"Synthetic sample metadata; add your own legally safe images before upload."
+sample-002,person-angle.png,garment-hoodie.png,hoodie,demo,"Synthetic sample metadata; front or slightly angled subject recommended."
+sample-003,person-full-body.png,garment-dress.png,dress,provider,"Use only with an appropriately configured VTON provider."sample_id,person_file,garment_file,garment_category,expected_mode,notes
+sample-001,person-front.png,garment-overshirt.png,shirt,demo,"Synthetic sample metadata; add your own legally safe images before upload."
+sample-002,person-angle.png,garment-hoodie.png,hoodie,demo,"Synthetic sample metadata; front or slightly angled subject recommended."
+sample-003,person-full-body.png,garment-dress.png,dress,provider,"Use only with an appropriately configured VTON provider."
